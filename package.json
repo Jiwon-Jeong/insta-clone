@@ -1,0 +1,19 @@
+{
+  "name": "insta-clone",
+  "version": "1.0.0",
+  "description": "Instagram Clone with - Express, Prisma, React, React Native",
+  "repository": "https://github.com/Jiwon-Jeong/insta-clone.git",
+  "author": "JIWON <ziwon16@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-node": "^0.0.1-security",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  }
+}
