@@ -19,7 +19,7 @@ Instagram Clone with >> Express, Prisma, React, React Native
 - [x] See my profile
 - [x] See full photos
 - [x] Upload a photo
-- [ ] Edit the Photo
+- [x] Edit the Photo
 - [ ] See the feed
 - [ ] See chat
 - [ ] See all chats
