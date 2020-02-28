@@ -21,3 +21,7 @@ Instagram Clone with >> Express, Prisma, React, React Native
 - [ ] Upload a photo
 - [ ] Edit the Photo
 - [ ] See the feed
+- [ ] See chat
+- [ ] See all chats
+- [ ] Send DM
+- [ ] Receive DM
