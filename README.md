@@ -24,4 +24,4 @@ Instagram Clone with >> Express, Prisma, React, React Native
 - [x] Send DM
 - [x] See all rooms
 - [x] See room
-- [ ] Receive DM
+- [x] Receive DM
