@@ -19,5 +19,5 @@ server.express.use(authenticateJwt);
 server.express.post("/api/upload", uploadMiddleware, uploadController);
 
 server.start({ port: PORT }, () =>
-  console.log(`Server running on http://localhost:${PORT}`)
+  console.log(`Server running on http://172.30.1.46:${PORT}`)
 );
